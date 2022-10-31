@@ -21,3 +21,4 @@ vscode:
     - rebornix.ruby
     - connorshea.vscode-ruby-test-adapter@0.9.0
     - hbenl.vscode-test-explorer@2.21.1
+    - rangav.vscode-thunder-client
