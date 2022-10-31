@@ -1,4 +1,4 @@
-FROM gitpod/workspace-postgres
+FROM gitpod/workspace-postgresql
 USER gitpod
 
 # Install Ruby version 2.7.6 and set it as default
